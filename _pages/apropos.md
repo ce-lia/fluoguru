@@ -1,11 +1,11 @@
 ---
-title: About Fluo Guru
+title: À propos de Fluo Guru
 layout: post
-permalink: /about/
+permalink: /apropos/
 published: true
 ---
 
-For more themes please visit [https://jekyll-themes.com](https://jekyll-themes.com){: target="_blank"}
+À venir...
 
 <!--
 Does the theme deserve a star?
