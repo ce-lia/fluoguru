@@ -2,6 +2,7 @@
 layout: default
 ---
 <h1 class="headline">{{site.title}}</h1>
+<div class="tagline">It was all written before.</div>
 <div class="article-list">
   {% for post in paginator.posts %}
     <h2><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>

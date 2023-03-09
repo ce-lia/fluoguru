@@ -1,6 +1,6 @@
 ### your site title here
 
-title: Hagura - Light!
+title: Fluo Guru
 # disabled because we are using a custom domain
 #baseurl: /hagura # name of the repository
 email: your@email.com
@@ -14,10 +14,10 @@ paginate_path: /page:num/
 
 
 # Tracker
-analytics: UA-83979019-4
+analytics: 
 
 # Comments
-disqus-shortname: webjeda-demo
+disqus-shortname: 
 
 
 #optimization

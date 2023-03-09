@@ -61,6 +61,7 @@ GEM
     unicode-display_width (1.8.0)
 
 PLATFORMS
+  x86_64-darwin-20
   x86_64-linux
 
 DEPENDENCIES
@@ -69,4 +70,4 @@ DEPENDENCIES
   jekyll-seo-tag
 
 BUNDLED WITH
-   2.3.7
+   2.4.7

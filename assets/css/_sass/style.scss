@@ -20,7 +20,7 @@ body {
     }
 
     h1,h2,h3,h4,h5,h6 {
-         font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif;
+         font-family: "Unica One", "Helvetica Neue", Helvetica, sans-serif;
          font-weight: bold;
          line-height: 1.8;
          margin: 0;
@@ -39,7 +39,7 @@ a {
 
 
 p a {
-    color: $text-color;
+    color: $brand-color;
     text-decoration: none;
     background: -webkit-linear-gradient(transparent 90%, lighten($brand-color, 10%) 10%);
     background: -moz-linear-gradient(transparent 90%, lighten($brand-color, 10%) 10%);
@@ -125,6 +125,18 @@ blockquote {
         width: 30px;
         opacity: 0.6;
     }
+}
+
+
+.tagline {
+    background-color: black;
+    color: $text-color;
+    font-size: 3em;
+    font-family: "Unica One", "Helvetica Neue", Helvetica, sans-serif;
+    height:200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 

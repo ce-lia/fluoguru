@@ -4,7 +4,7 @@
 
 @charset "utf-8";
 
-$base-font-family: 'Work Sans', sans-serif;
+$base-font-family: 'Montserrat', sans-serif;
 $base-font-size:   20px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -12,9 +12,9 @@ $base-line-height: 1.7;
 
 $spacing-unit:     30px;
 
-$text-color:       #333;
-$background-color: #fdfdfd;
-$brand-color:      #60c17d;
+$text-color:       #F2F0E3;
+$background-color: #222;
+$brand-color:      #CD9FCC;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -48,5 +48,4 @@ $on-laptop:        1000px;
         "style",
         "google-fonts"
 ;
-
 
