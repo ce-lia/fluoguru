@@ -97,7 +97,7 @@ blockquote {
 
 .headline, .post-headline {
     font-size: 4em;
-    margin-bottom: 0.5em;
+    /* margin-bottom: 0.5em; */
 
         @include media-query($on-palm) {
             font-size: 2em;
@@ -137,7 +137,15 @@ blockquote {
     display: flex;
     align-items: center;
     justify-content: center;
+    @media screen and (max-width: 750px) {
+        font-size:2em;
+    }
+    @media screen and (max-width: 520px) {
+        font-size:1em;
+    }
 }
+
+
 
 
 
