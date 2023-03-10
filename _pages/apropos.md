@@ -1,5 +1,5 @@
 ---
-title: À propos de Fluo Guru
+title: À propos de fluo guru
 layout: post
 permalink: /apropos/
 published: true
