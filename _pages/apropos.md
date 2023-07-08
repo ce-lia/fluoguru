@@ -32,7 +32,7 @@ la stat, la zit,
 ouch bilde mit !  
 Genk ane wec  
 den smalen stec :  
-so kmustu an der wüste spor.  
+so kumstu an der wüste spor.  
 
 O sele min,  
 genc us, got in,  
