@@ -1,5 +1,5 @@
 ---
-title: À propos de fluo guru
+title: Us umbenamt, Us umbekant
 layout: post
 permalink: /apropos/
 published: true
