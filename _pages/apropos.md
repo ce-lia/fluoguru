@@ -1,5 +1,5 @@
 ---
-title: Us umbenamt, Us umbekant
+title: À propos
 layout: post
 permalink: /apropos/
 published: true
