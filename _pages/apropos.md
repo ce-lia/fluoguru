@@ -5,7 +5,7 @@ permalink: /apropos/
 published: true
 ---
 
-Us is und weis och nimant was.  
+Us is und weis doch nimant was.  
 Us hi, us da,  
 us verre, us na,  
 us tif, us ho,  
